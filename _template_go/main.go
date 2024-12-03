@@ -30,7 +30,7 @@ func readlines(filename string) []string {
 
 func main() {
 	args := os.Args[1:]
-	filename := "sample.txt"
+	filename := "sample"
 	if len(args) > 0 {
 		filename = args[0]
 	}
