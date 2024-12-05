@@ -6,6 +6,7 @@ import (
 	"log"
 	"os"
 	"regexp"
+	"slices"
 	"strconv"
 	"strings"
 
@@ -23,17 +24,15 @@ func parseNumbersFrom(line string) []int {
 	return numbers
 }
 
-func parseGraph(lines []string) gograph.Graph[int] {
-	g := gograph.New[int](gograph.Directed())
+func parseConstraints(lines []string) map[int][]int {
+	constraints := make(map[int][]int)
 	for _, line := range lines {
 		if strings.Contains(line, "|") {
 			parts := parseNumbersFrom(line)
-			v1 := gograph.NewVertex(parts[0])
-			v2 := gograph.NewVertex(parts[1])
-			g.AddEdge(v1, v2)
+			constraints[parts[0]] = append(constraints[parts[0]], parts[1])
 		}
 	}
-	return g
+	return constraints
 }
 
 // walk two slices of ordered vertices and determine if the first is a subset of the second in the same order
@@ -44,66 +43,64 @@ func isSubset(whole, part []int) bool {
 	if len(part) == 0 {
 		return true
 	}
+
 	p := 0
 	w := 0
 	for p < len(part) && w < len(whole) {
-		if part[p] == whole[w] {
-			p++
+		if part[p] != whole[w] {
 			w++
 			continue
 		}
-		// iterate through the whole until we find the match to part
-		for w < len(whole) && part[p] != whole[w] {
-			w++
-		}
-		if w == len(whole) {
-			return false
-		}
-		// now we can increment p
 		p++
-		if p == len(part) {
-			return true
-		}
+		w++
 	}
-	return false
+	// fmt.Println(whole, part, w, p)
+	return p == len(part)
 }
 
-func part1(lines []string) int {
-	g := parseGraph(lines)
+func bothParts(lines []string) (int, int) {
+	constraints := parseConstraints(lines)
 
-	// get the ordered version of the graph
-	iter, err := traverse.NewTopologicalIterator(g)
-	if err != nil {
-		log.Fatal(err)
-	}
-	orderedGraph := make([]int, 0)
-	for iter.HasNext() {
-		v := iter.Next()
-		orderedGraph = append(orderedGraph, v.Label())
-	}
-	fmt.Println(orderedGraph)
-
-	total := 0
+	correctTotal := 0
+	incorrectTotal := 0
 	for _, line := range lines {
 		if strings.Contains(line, ",") {
-			parts := parseNumbersFrom(line)
-			for _, part := range parts {
-				if g.GetVertexByID(part) == nil {
-					fmt.Println("Vertex not found: ", part)
-					continue
+			pages := parseNumbersFrom(line)
+			// now we're going to build a graph from the constraints on the pages in the given line
+			g := gograph.New[int](gograph.Directed())
+			for _, page := range pages {
+				v1 := gograph.NewVertex(page)
+				for _, constraint := range constraints[page] {
+					v2 := gograph.NewVertex(constraint)
+					g.AddEdge(v1, v2)
 				}
 			}
-			if isSubset(orderedGraph, parts) {
-				total += parts[len(parts)/2]
+			// get the ordered version of the graph
+			iter, err := traverse.NewTopologicalIterator(g)
+			if err != nil {
+				log.Fatal(err)
+			}
+			orderedGraph := make([]int, 0)
+			for iter.HasNext() {
+				v := iter.Next()
+				orderedGraph = append(orderedGraph, v.Label())
+			}
+			if isSubset(orderedGraph, pages) {
+				correctTotal += pages[len(pages)/2]
+			} else {
+				correctOrder := make([]int, 0)
+				for _, page := range orderedGraph {
+					if slices.Contains(pages, page) {
+						correctOrder = append(correctOrder, page)
+					}
+				}
+				// fmt.Println(orderedGraph, pages, correctOrder)
+				incorrectTotal += correctOrder[len(correctOrder)/2]
 			}
 		}
 	}
 
-	return total
-}
-
-func part2(lines []string) int {
-	return 0
+	return correctTotal, incorrectTotal
 }
 
 func readlines(filename string) []string {
@@ -125,5 +122,5 @@ func main() {
 		filename = args[0]
 	}
 	lines := readlines(filename)
-	fmt.Println(part1(lines))
+	fmt.Println(bothParts(lines))
 }
