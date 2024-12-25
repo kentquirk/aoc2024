@@ -1,0 +1,1741 @@
+wkm: ?
+vww: ?
+bgw: ?
+tmc: ?
+qtc: ?
+z07(7): ?
+x31: false
+rpj: ?
+wmn: ?
+tqj: ?
+x14: false
+x21: false
+x22: true
+x24: false
+rkn: ?
+rqq: ?
+rqt: ?
+mdh: ?
+z24(24): ?
+z05(5): ?
+y34: true
+dcd: ?
+x04: false
+x32: true
+y43: true
+y44: true
+qng: ?
+drp: ?
+btr: ?
+z35(35): ?
+fmv: ?
+x11: false
+y09: true
+y10: true
+rft: ?
+srn: ?
+jfr: ?
+vcd: ?
+pgc: ?
+rdj: ?
+x05: true
+sfv: ?
+z14(14): ?
+gtj: ?
+krv: ?
+jgd: ?
+vtv: ?
+z08(8): ?
+z33(33): ?
+fcw: ?
+gsr: ?
+x35: false
+y39: false
+mnk: ?
+php: ?
+dcg: ?
+tgg: ?
+z13(13): ?
+y06: true
+qcs: ?
+cdb: ?
+tmt: ?
+jsn: ?
+kwp: ?
+z17(17): ?
+x15: true
+x34: false
+z27(27): ?
+y02: true
+vss: ?
+wbn: ?
+z39(39): ?
+x26: false
+rwn: ?
+z42(42): ?
+pcp: ?
+x25: true
+z19(19): ?
+vhb: ?
+dmw: ?
+y42: false
+ttp: ?
+bdg: ?
+vmf: ?
+z02(2): ?
+fcg: ?
+tgs: ?
+hqc: ?
+kfs: ?
+z01(1): ?
+mht: ?
+fsb: ?
+fpq: ?
+y16: true
+msm: ?
+cgg: ?
+fcp: ?
+rcs: ?
+x42: true
+vqc: ?
+nmp: ?
+vwp: ?
+kth: ?
+x16: false
+x38: false
+dpq: ?
+z10(10): ?
+kpw: ?
+x06: false
+x43: true
+y31: true
+kcj: ?
+njw: ?
+y20: false
+nnj: ?
+jcm: ?
+jgp: ?
+fth: ?
+x03: false
+y33: true
+jrw: ?
+qdb: ?
+z30(30): ?
+y35: false
+y37: true
+pbw: ?
+nsk: ?
+rsf: ?
+z00(0): ?
+z40(40): ?
+x13: true
+btq: ?
+y01: false
+pfp: ?
+mqq: ?
+vmd: ?
+ndk: ?
+x39: false
+thd: ?
+hst: ?
+y26: false
+z37(37): ?
+z32(32): ?
+x37: true
+wsd: ?
+pcs: ?
+y15: true
+bbw: ?
+jhn: ?
+wks: ?
+dbm: ?
+dsw: ?
+y29: true
+vvv: ?
+z06(6): ?
+kjg: ?
+cbp: ?
+hfm: ?
+jgc: ?
+fqc: ?
+scr: ?
+x10: true
+x29: false
+y23: true
+jpm: ?
+csg: ?
+hkm: ?
+x27: true
+y24: false
+srm: ?
+nqk: ?
+dsr: ?
+nbm: ?
+qwr: ?
+x12: false
+x40: false
+y13: true
+y19: false
+dht: ?
+mrw: ?
+z22(22): ?
+pwg: ?
+wnb: ?
+gdd: ?
+x07: true
+x17: false
+hsj: ?
+nrm: ?
+nrt: ?
+rgc: ?
+jrt: ?
+z34(34): ?
+z31(31): ?
+x20: false
+y08: false
+y11: true
+y32: false
+z28(28): ?
+y22: true
+vjv: ?
+z26(26): ?
+z15(15): ?
+x08: true
+y07: true
+y27: false
+bhs: ?
+swk: ?
+fvr: ?
+z11(11): ?
+fgt: ?
+gqs: ?
+z41(41): ?
+z16(16): ?
+hdn: ?
+ttt: ?
+ghf: ?
+jbn: ?
+wtv: ?
+qpd: ?
+pjh: ?
+y40: false
+hph: ?
+wnn: ?
+bcg: ?
+vdm: ?
+fgm: ?
+y03: true
+y25: false
+vpk: ?
+cdr: ?
+x33: false
+y05: false
+stq: ?
+x19: true
+pvd: ?
+z45(45): ?
+jnv: ?
+x18: false
+z43(43): ?
+rfv: ?
+jwt: ?
+mmq: ?
+dpm: ?
+kkw: ?
+z09(9): ?
+z12(12): ?
+bfr: ?
+sdp: ?
+x09: false
+x44: true
+y00: true
+y14: false
+y17: true
+y30: false
+fvk: ?
+mth: ?
+fsh: ?
+gwt: ?
+x02: false
+x23: true
+qks: ?
+x41: true
+z36(36): ?
+x00: true
+z29(29): ?
+gdq: ?
+z03(3): ?
+hdf: ?
+ghj: ?
+pks: ?
+nmq: ?
+krt: ?
+dhp: ?
+x36: false
+y04: false
+z21(21): ?
+jsb: ?
+bnq: ?
+z23(23): ?
+x01: true
+y36: false
+pst: ?
+rjn: ?
+z25(25): ?
+y12: true
+y28: true
+rmb: ?
+wkg: ?
+jnw: ?
+gdb: ?
+y21: false
+z18(18): ?
+qhk: ?
+y38: false
+mjn: ?
+z44(44): ?
+fkq: ?
+hbs: ?
+z04(4): ?
+y41: true
+hrf: ?
+x28: false
+x30: true
+qdd: ?
+wgs: ?
+npp: ?
+z20(20): ?
+crc: ?
+jss: ?
+y18: true
+hqt: ?
+z38(38): ?
+y13 AND x13 -> pfp
+y08 XOR x08 -> wkm
+y01 XOR x01 -> hqt
+bhs AND vcd -> rwn
+y23 XOR x23 -> srm
+hrf AND swk -> hph
+mnk XOR ttp -> z29
+y02 AND x02 -> dpq
+y30 AND x30 -> bbw
+thd OR hqc -> jhn
+hsj XOR rkn -> z19
+vvv OR vhb -> php
+fvk OR dpq -> rmb
+dcg AND mjn -> nrm
+dsr AND rqq -> hdf
+jpm XOR pvd -> z43
+dht XOR vww -> z21
+csg OR wnn -> z45
+wsd XOR jbn -> z42
+mrw XOR jsb -> z22
+vww AND dht -> bcg
+gqs OR gdq -> vss
+y05 AND x05 -> qks
+y29 XOR x29 -> mnk
+rqt XOR qdd -> z37
+y11 AND x11 -> pbw
+nbm XOR vpk -> z06
+vqc AND pcs -> nnj
+jbn AND wsd -> vdm
+wtv OR nnj -> sfv
+x20 XOR y20 -> wks
+kcj OR rwn -> pst
+bnq OR rfv -> hst
+y40 XOR x40 -> qwr
+pwg OR ghj -> dht
+pst AND pks -> rpj
+pst XOR pks -> z27
+dcd OR bdg -> msm
+y23 AND x23 -> vjv
+x12 XOR y12 -> kfs
+x32 XOR y32 -> qcs
+bhs XOR vcd -> z26
+y38 XOR x38 -> cdb
+y21 AND x21 -> mth
+nsk OR kjg -> wbn
+y12 AND x12 -> fvr
+y33 XOR x33 -> vqc
+y41 AND x41 -> cdr
+btr AND tmt -> jwt
+wks XOR wgs -> z20
+y25 AND x25 -> cgg
+npp XOR kfs -> z12
+jwt OR mdh -> rqt
+y13 XOR x13 -> cbp
+x01 AND y01 -> qng
+wks AND wgs -> ghj
+x14 AND y14 -> wkg
+hfm XOR hqt -> z01
+mht XOR gwt -> z10
+php XOR qpd -> z41
+mnk AND ttp -> gqs
+y24 XOR x24 -> mqq
+fcp OR jnv -> nmq
+fgm AND cbp -> jsn
+bgw OR hdf -> mmq
+dcg XOR mjn -> z14
+y08 AND x08 -> bdg
+y05 XOR x05 -> vmd
+x03 XOR y03 -> wmn
+tgg XOR fsb -> z35
+srm AND rsf -> gtj
+njw OR rpj -> hrf
+fsb AND tgg -> fkq
+y07 XOR x07 -> krv
+bfr AND dmw -> fvk
+hqt AND hfm -> hkm
+x35 AND y35 -> drp
+x34 XOR y34 -> jrw
+rft OR nrt -> wnb
+rkn AND hsj -> vmf
+x11 XOR y11 -> dbm
+x06 AND y06 -> dsw
+krt XOR dbm -> z11
+nmp AND mqq -> rgc
+fgm XOR cbp -> z13
+mmq XOR dhp -> z16
+jcm OR bbw -> hdn
+y30 XOR x30 -> tmc
+ndk OR fvr -> fgm
+jgd AND msm -> rcs
+dmw XOR bfr -> z02
+jsb AND mrw -> kwp
+x44 AND y44 -> wnn
+wmn AND rmb -> jnw
+qks OR jgc -> nbm
+y34 AND x34 -> jrt
+srn OR fqc -> pcs
+vpk AND nbm -> gdb
+wmn XOR rmb -> z03
+mht AND gwt -> vwp
+y02 XOR x02 -> bfr
+pbw OR jfr -> npp
+x17 XOR y17 -> pcp
+x24 AND y24 -> z24
+x39 XOR y39 -> fmv
+y28 XOR x28 -> swk
+y17 AND x17 -> fgt
+rsf XOR srm -> z23
+x19 AND y19 -> dpm
+x41 XOR y41 -> qpd
+vwp OR ttt -> krt
+jgp OR kkw -> rkn
+y06 XOR x06 -> vpk
+wkg OR nrm -> rqq
+fkq OR drp -> tmt
+hbs AND fcg -> kkw
+nmp XOR mqq -> fpq
+x09 XOR y09 -> jgd
+hst AND qwr -> vhb
+x18 AND y18 -> jgp
+fsh XOR jhn -> z44
+fgt AND nmq -> vtv
+x15 AND y15 -> bgw
+nqk XOR wkm -> z08
+vjv OR gtj -> nmp
+fth AND qcs -> z32
+nqk AND wkm -> dcd
+vmd AND wbn -> jgc
+pgc OR jrt -> tgg
+jrw XOR sfv -> z34
+hbs XOR fcg -> z18
+jrw AND sfv -> pgc
+fth XOR qcs -> srn
+x18 XOR y18 -> hbs
+x26 XOR y26 -> vcd
+fmv AND wnb -> bnq
+tqj OR hph -> ttp
+gdb OR dsw -> btq
+vqc XOR pcs -> z33
+rgc OR fpq -> tgs
+vmf OR dpm -> wgs
+y28 AND x28 -> tqj
+y00 XOR x00 -> z00
+btq AND krv -> stq
+x32 AND y32 -> fqc
+cdb XOR crc -> z38
+qhk AND fcw -> nsk
+php AND qpd -> rdj
+qtc OR ghf -> crc
+qhk XOR fcw -> z04
+kpw AND tgs -> kth
+x42 AND y42 -> gsr
+npp AND kfs -> ndk
+y14 XOR x14 -> dcg
+pjh OR sdp -> fth
+x37 XOR y37 -> qdd
+y37 AND x37 -> ghf
+stq OR jss -> z07
+y00 AND x00 -> hfm
+y16 AND x16 -> fcp
+y43 AND x43 -> hqc
+wnb XOR fmv -> z39
+jnw OR rjn -> fcw
+tgs XOR kpw -> z25
+pvd AND jpm -> thd
+x42 XOR y42 -> wsd
+y03 AND x03 -> rjn
+y22 AND x22 -> scr
+y19 XOR x19 -> hsj
+x33 AND y33 -> wtv
+scr OR kwp -> rsf
+x07 AND y07 -> jss
+x15 XOR y15 -> dsr
+x43 XOR y43 -> jpm
+rdj OR cdr -> jbn
+dsr XOR rqq -> z15
+hdn XOR qdb -> z31
+x29 AND y29 -> gdq
+y04 AND x04 -> kjg
+mth OR bcg -> jsb
+dbm AND krt -> jfr
+y40 AND x40 -> vvv
+msm XOR jgd -> z09
+vmd XOR wbn -> z05
+y38 AND x38 -> rft
+qng OR hkm -> dmw
+nmq XOR fgt -> z17
+y04 XOR x04 -> qhk
+swk XOR hrf -> z28
+y10 XOR x10 -> gwt
+krv XOR btq -> nqk
+y10 AND x10 -> ttt
+vss XOR tmc -> z30
+x26 AND y26 -> kcj
+y36 AND x36 -> mdh
+hst XOR qwr -> z40
+x27 XOR y27 -> pks
+y16 XOR x16 -> dhp
+y20 AND x20 -> pwg
+tmt XOR btr -> z36
+gsr OR vdm -> pvd
+y35 XOR x35 -> fsb
+x22 XOR y22 -> mrw
+kth OR cgg -> bhs
+jsn OR pfp -> mjn
+y09 AND x09 -> gdd
+dhp AND mmq -> jnv
+x31 AND y31 -> sdp
+tmc AND vss -> jcm
+jhn AND fsh -> csg
+rqt AND qdd -> qtc
+x27 AND y27 -> njw
+x21 XOR y21 -> vww
+y44 XOR x44 -> fsh
+qdb AND hdn -> pjh
+vtv OR pcp -> fcg
+x39 AND y39 -> rfv
+rcs OR gdd -> mht
+x31 XOR y31 -> qdb
+cdb AND crc -> nrt
+y25 XOR x25 -> kpw
+x36 XOR y36 -> btr
+
+y20: false
+nnj: true
+jcm: false
+jgp: false
+fth: false
+x03: false
+y33: true
+jrw: true
+qdb: true
+z30(30): true
+y35: false
+y37: true
+pbw: false
+nsk: false
+rsf: true
+z00(0): false
+z40(40): false
+x13: true
+btq: false
+y01: false
+pfp: true
+mqq: false
+vmd: true
+ndk: true
+x39: false
+thd: false
+hst: false
+y26: false
+z37(37): false
+z32(32): false
+x37: true
+wsd: true
+pcs: true
+y15: true
+bbw: false
+jhn: true
+wks: false
+dbm: true
+dsw: false
+y29: true
+vvv: false
+z06(6): true
+kjg: false
+cbp: false
+hfm: true
+jgc: false
+fqc: false
+scr: true
+x10: true
+x29: false
+y23: true
+jpm: false
+csg: false
+hkm: true
+x27: true
+y24: false
+srm: false
+nqk: false
+dsr: false
+nbm: false
+qwr: false
+x12: false
+x40: false
+y13: true
+y19: false
+dht: false
+mrw: false
+z22(22): false
+pwg: false
+wnb: false
+gdd: false
+x07: true
+x17: false
+hsj: true
+nrm: false
+nrt: false
+rgc: false
+jrt: false
+z34(34): false
+z31(31): true
+x20: false
+y08: false
+y11: true
+y32: false
+z28(28): true
+y22: true
+vjv: true
+z26(26): true
+z15(15): false
+x08: true
+y07: true
+y27: false
+bhs: true
+swk: true
+fvr: false
+z11(11): false
+fgt: false
+gqs: false
+z41(41): false
+z16(16): false
+hdn: false
+ttt: true
+ghf: true
+jbn: true
+wtv: false
+qpd: false
+pjh: false
+y40: false
+hph: false
+wnn: true
+bcg: false
+vdm: true
+fgm: true
+y03: true
+y25: false
+vpk: true
+cdr: true
+x33: false
+y05: false
+stq: false
+x19: true
+pvd: true
+z45(45): true
+jnv: true
+x18: false
+z43(43): true
+rfv: false
+jwt: false
+mmq: true
+dpm: false
+kkw: true
+z09(9): true
+z12(12): false
+bfr: true
+sdp: false
+x09: false
+x44: true
+y00: true
+y14: false
+y17: true
+y30: false
+fvk: true
+mth: false
+fsh: false
+gwt: false
+x02: false
+x23: true
+qks: false
+x41: true
+z36(36): false
+x00: true
+z29(29): true
+gdq: false
+z03(3): false
+hdf: false
+ghj: false
+pks: true
+nmq: true
+krt: true
+dhp: true
+x36: false
+y04: false
+z21(21): false
+jsb: false
+bnq: false
+z23(23): true
+x01: true
+y36: false
+pst: false
+rjn: false
+z25(25): false
+y12: true
+y28: true
+rmb: true
+wkg: false
+jnw: true
+gdb: false
+y21: false
+z18(18): false
+qhk: false
+y38: false
+mjn: true
+z44(44): true
+fkq: false
+hbs: true
+z04(4): true
+y41: true
+hrf: false
+x28: false
+x30: true
+qdd: false
+wgs: true
+npp: true
+z20(20): true
+crc: true
+jss: true
+y18: true
+hqt: true
+z38(38): true
+wkm: true
+vww: false
+bgw: true
+tmc: true
+qtc: false
+z07(7): true
+x31: false
+rpj: false
+wmn: true
+tqj: false
+x14: false
+x21: false
+x22: true
+x24: false
+rkn: true
+rqq: false
+rqt: false
+mdh: false
+z24(24): false
+z05(5): true
+y34: true
+dcd: false
+x04: false
+x32: true
+y43: true
+y44: true
+qng: false
+drp: false
+btr: false
+z35(35): true
+fmv: false
+x11: false
+y09: true
+y10: true
+rft: false
+srn: true
+jfr: true
+vcd: false
+pgc: true
+rdj: false
+x05: true
+sfv: true
+z14(14): true
+gtj: false
+krv: false
+jgd: true
+vtv: false
+z08(8): true
+z33(33): false
+fcw: true
+gsr: false
+x35: false
+y39: false
+mnk: true
+php: false
+dcg: false
+tgg: true
+z13(13): true
+y06: true
+qcs: true
+cdb: false
+tmt: false
+jsn: false
+kwp: false
+z17(17): true
+x15: true
+x34: false
+z27(27): true
+y02: true
+vss: false
+wbn: false
+z39(39): false
+x26: false
+rwn: false
+z42(42): false
+pcp: true
+x25: true
+z19(19): false
+vhb: false
+dmw: true
+y42: false
+ttp: false
+bdg: false
+vmf: true
+z02(2): false
+fcg: true
+tgs: true
+hqc: true
+kfs: true
+z01(1): false
+mht: false
+fsb: false
+fpq: true
+y16: true
+msm: false
+cgg: false
+fcp: false
+rcs: false
+x42: true
+vqc: true
+nmp: true
+vwp: false
+kth: true
+x16: false
+x38: false
+dpq: false
+z10(10): false
+kpw: true
+x06: false
+x43: true
+y31: true
+kcj: false
+njw: false
+y13 AND x13 -> pfp
+y08 XOR x08 -> wkm
+y01 XOR x01 -> hqt
+bhs AND vcd -> rwn
+y23 XOR x23 -> srm
+hrf AND swk -> hph
+mnk XOR ttp -> z29
+y02 AND x02 -> dpq
+y30 AND x30 -> bbw
+thd OR hqc -> jhn
+hsj XOR rkn -> z19
+vvv OR vhb -> php
+fvk OR dpq -> rmb
+dcg AND mjn -> nrm
+dsr AND rqq -> hdf
+jpm XOR pvd -> z43
+dht XOR vww -> z21
+csg OR wnn -> z45
+wsd XOR jbn -> z42
+mrw XOR jsb -> z22
+vww AND dht -> bcg
+gqs OR gdq -> vss
+y05 AND x05 -> qks
+y29 XOR x29 -> mnk
+rqt XOR qdd -> z37
+y11 AND x11 -> pbw
+nbm XOR vpk -> z06
+vqc AND pcs -> nnj
+jbn AND wsd -> vdm
+wtv OR nnj -> sfv
+x20 XOR y20 -> wks
+kcj OR rwn -> pst
+bnq OR rfv -> hst
+y40 XOR x40 -> qwr
+pwg OR ghj -> dht
+pst AND pks -> rpj
+pst XOR pks -> z27
+dcd OR bdg -> msm
+y23 AND x23 -> vjv
+x12 XOR y12 -> kfs
+x32 XOR y32 -> qcs
+bhs XOR vcd -> z26
+y38 XOR x38 -> cdb
+y21 AND x21 -> mth
+nsk OR kjg -> wbn
+y12 AND x12 -> fvr
+y33 XOR x33 -> vqc
+y41 AND x41 -> cdr
+btr AND tmt -> jwt
+wks XOR wgs -> z20
+y25 AND x25 -> cgg
+npp XOR kfs -> z12
+jwt OR mdh -> rqt
+y13 XOR x13 -> cbp
+x01 AND y01 -> qng
+wks AND wgs -> ghj
+x14 AND y14 -> wkg
+hfm XOR hqt -> z01
+mht XOR gwt -> z10
+php XOR qpd -> z41
+mnk AND ttp -> gqs
+y24 XOR x24 -> mqq
+fcp OR jnv -> nmq
+fgm AND cbp -> jsn
+bgw OR hdf -> mmq
+dcg XOR mjn -> z14
+y08 AND x08 -> bdg
+y05 XOR x05 -> vmd
+x03 XOR y03 -> wmn
+tgg XOR fsb -> z35
+srm AND rsf -> gtj
+njw OR rpj -> hrf
+fsb AND tgg -> fkq
+y07 XOR x07 -> krv
+bfr AND dmw -> fvk
+hqt AND hfm -> hkm
+x35 AND y35 -> drp
+x34 XOR y34 -> jrw
+rft OR nrt -> wnb
+rkn AND hsj -> vmf
+x11 XOR y11 -> dbm
+x06 AND y06 -> dsw
+krt XOR dbm -> z11
+nmp AND mqq -> rgc
+fgm XOR cbp -> z13
+mmq XOR dhp -> z16
+jcm OR bbw -> hdn
+y30 XOR x30 -> tmc
+ndk OR fvr -> fgm
+jgd AND msm -> rcs
+dmw XOR bfr -> z02
+jsb AND mrw -> kwp
+x44 AND y44 -> wnn
+wmn AND rmb -> jnw
+qks OR jgc -> nbm
+y34 AND x34 -> jrt
+srn OR fqc -> pcs
+vpk AND nbm -> gdb
+wmn XOR rmb -> z03
+mht AND gwt -> vwp
+y02 XOR x02 -> bfr
+pbw OR jfr -> npp
+x17 XOR y17 -> pcp
+x24 AND y24 -> z24
+x39 XOR y39 -> fmv
+y28 XOR x28 -> swk
+y17 AND x17 -> fgt
+rsf XOR srm -> z23
+x19 AND y19 -> dpm
+x41 XOR y41 -> qpd
+vwp OR ttt -> krt
+jgp OR kkw -> rkn
+y06 XOR x06 -> vpk
+wkg OR nrm -> rqq
+fkq OR drp -> tmt
+hbs AND fcg -> kkw
+nmp XOR mqq -> fpq
+x09 XOR y09 -> jgd
+hst AND qwr -> vhb
+x18 AND y18 -> jgp
+fsh XOR jhn -> z44
+fgt AND nmq -> vtv
+x15 AND y15 -> bgw
+nqk XOR wkm -> z08
+vjv OR gtj -> nmp
+fth AND qcs -> z32
+nqk AND wkm -> dcd
+vmd AND wbn -> jgc
+pgc OR jrt -> tgg
+jrw XOR sfv -> z34
+hbs XOR fcg -> z18
+jrw AND sfv -> pgc
+fth XOR qcs -> srn
+x18 XOR y18 -> hbs
+x26 XOR y26 -> vcd
+fmv AND wnb -> bnq
+tqj OR hph -> ttp
+gdb OR dsw -> btq
+vqc XOR pcs -> z33
+rgc OR fpq -> tgs
+vmf OR dpm -> wgs
+y28 AND x28 -> tqj
+y00 XOR x00 -> z00
+btq AND krv -> stq
+x32 AND y32 -> fqc
+cdb XOR crc -> z38
+qhk AND fcw -> nsk
+php AND qpd -> rdj
+qtc OR ghf -> crc
+qhk XOR fcw -> z04
+kpw AND tgs -> kth
+x42 AND y42 -> gsr
+npp AND kfs -> ndk
+y14 XOR x14 -> dcg
+pjh OR sdp -> fth
+x37 XOR y37 -> qdd
+y37 AND x37 -> ghf
+stq OR jss -> z07
+y00 AND x00 -> hfm
+y16 AND x16 -> fcp
+y43 AND x43 -> hqc
+wnb XOR fmv -> z39
+jnw OR rjn -> fcw
+tgs XOR kpw -> z25
+pvd AND jpm -> thd
+x42 XOR y42 -> wsd
+y03 AND x03 -> rjn
+y22 AND x22 -> scr
+y19 XOR x19 -> hsj
+x33 AND y33 -> wtv
+scr OR kwp -> rsf
+x07 AND y07 -> jss
+x15 XOR y15 -> dsr
+x43 XOR y43 -> jpm
+rdj OR cdr -> jbn
+dsr XOR rqq -> z15
+hdn XOR qdb -> z31
+x29 AND y29 -> gdq
+y04 AND x04 -> kjg
+mth OR bcg -> jsb
+dbm AND krt -> jfr
+y40 AND x40 -> vvv
+msm XOR jgd -> z09
+vmd XOR wbn -> z05
+y38 AND x38 -> rft
+qng OR hkm -> dmw
+nmq XOR fgt -> z17
+y04 XOR x04 -> qhk
+swk XOR hrf -> z28
+y10 XOR x10 -> gwt
+krv XOR btq -> nqk
+y10 AND x10 -> ttt
+vss XOR tmc -> z30
+x26 AND y26 -> kcj
+y36 AND x36 -> mdh
+hst XOR qwr -> z40
+x27 XOR y27 -> pks
+y16 XOR x16 -> dhp
+y20 AND x20 -> pwg
+tmt XOR btr -> z36
+gsr OR vdm -> pvd
+y35 XOR x35 -> fsb
+x22 XOR y22 -> mrw
+kth OR cgg -> bhs
+jsn OR pfp -> mjn
+y09 AND x09 -> gdd
+dhp AND mmq -> jnv
+x31 AND y31 -> sdp
+tmc AND vss -> jcm
+jhn AND fsh -> csg
+rqt AND qdd -> qtc
+x27 AND y27 -> njw
+x21 XOR y21 -> vww
+y44 XOR x44 -> fsh
+qdb AND hdn -> pjh
+vtv OR pcp -> fcg
+x39 AND y39 -> rfv
+rcs OR gdd -> mht
+x31 XOR y31 -> qdb
+cdb AND crc -> nrt
+y25 XOR x25 -> kpw
+x36 XOR y36 -> btr
+
+61886126253040
+digraph G {
+x00 -> hfm
+x00 -> z00
+x01 -> hqt
+x01 -> qng
+x02 -> bfr
+x02 -> dpq
+x03 -> rjn
+x03 -> wmn
+x04 -> kjg
+x04 -> qhk
+x05 -> qks
+x05 -> vmd
+x06 -> dsw
+x06 -> vpk
+x07 -> jss
+x07 -> krv
+x08 -> bdg
+x08 -> wkm
+x09 -> gdd
+x09 -> jgd
+x10 -> gwt
+x10 -> ttt
+x11 -> dbm
+x11 -> pbw
+x12 -> fvr
+x12 -> kfs
+x13 -> cbp
+x13 -> pfp
+x14 -> dcg
+x14 -> wkg
+x15 -> bgw
+x15 -> dsr
+x16 -> dhp
+x16 -> fcp
+x17 -> fgt
+x17 -> pcp
+x18 -> hbs
+x18 -> jgp
+x19 -> dpm
+x19 -> hsj
+x20 -> pwg
+x20 -> wks
+x21 -> mth
+x21 -> vww
+x22 -> mrw
+x22 -> scr
+x23 -> srm
+x23 -> vjv
+x24 -> mqq
+x24 -> z24
+x25 -> cgg
+x25 -> kpw
+x26 -> kcj
+x26 -> vcd
+x27 -> njw
+x27 -> pks
+x28 -> swk
+x28 -> tqj
+x29 -> gdq
+x29 -> mnk
+x30 -> bbw
+x30 -> tmc
+x31 -> qdb
+x31 -> sdp
+x32 -> fqc
+x32 -> qcs
+x33 -> vqc
+x33 -> wtv
+x34 -> jrt
+x34 -> jrw
+x35 -> drp
+x35 -> fsb
+x36 -> btr
+x36 -> mdh
+x37 -> ghf
+x37 -> qdd
+x38 -> cdb
+x38 -> rft
+x39 -> fmv
+x39 -> rfv
+x40 -> qwr
+x40 -> vvv
+x41 -> cdr
+x41 -> qpd
+x42 -> gsr
+x42 -> wsd
+x43 -> hqc
+x43 -> jpm
+x44 -> fsh
+x44 -> wnn
+y00 -> hfm
+y00 -> z00
+y01 -> hqt
+y01 -> qng
+y02 -> bfr
+y02 -> dpq
+y03 -> rjn
+y03 -> wmn
+y04 -> kjg
+y04 -> qhk
+y05 -> qks
+y05 -> vmd
+y06 -> dsw
+y06 -> vpk
+y07 -> jss
+y07 -> krv
+y08 -> bdg
+y08 -> wkm
+y09 -> gdd
+y09 -> jgd
+y10 -> gwt
+y10 -> ttt
+y11 -> dbm
+y11 -> pbw
+y12 -> fvr
+y12 -> kfs
+y13 -> cbp
+y13 -> pfp
+y14 -> dcg
+y14 -> wkg
+y15 -> bgw
+y15 -> dsr
+y16 -> dhp
+y16 -> fcp
+y17 -> fgt
+y17 -> pcp
+y18 -> hbs
+y18 -> jgp
+y19 -> dpm
+y19 -> hsj
+y20 -> pwg
+y20 -> wks
+y21 -> mth
+y21 -> vww
+y22 -> mrw
+y22 -> scr
+y23 -> srm
+y23 -> vjv
+y24 -> mqq
+y24 -> z24
+y25 -> cgg
+y25 -> kpw
+y26 -> kcj
+y26 -> vcd
+y27 -> njw
+y27 -> pks
+y28 -> swk
+y28 -> tqj
+y29 -> gdq
+y29 -> mnk
+y30 -> bbw
+y30 -> tmc
+y31 -> qdb
+y31 -> sdp
+y32 -> fqc
+y32 -> qcs
+y33 -> vqc
+y33 -> wtv
+y34 -> jrt
+y34 -> jrw
+y35 -> drp
+y35 -> fsb
+y36 -> btr
+y36 -> mdh
+y37 -> ghf
+y37 -> qdd
+y38 -> cdb
+y38 -> rft
+y39 -> fmv
+y39 -> rfv
+y40 -> qwr
+y40 -> vvv
+y41 -> cdr
+y41 -> qpd
+y42 -> gsr
+y42 -> wsd
+y43 -> hqc
+y43 -> jpm
+y44 -> fsh
+y44 -> wnn
+bbw -> hdn
+bcg -> jsb
+bdg -> msm
+bfr -> fvk
+bfr -> z02
+bgw -> mmq
+bhs -> rwn
+bhs -> z26
+bnq -> hst
+btq -> nqk
+btq -> stq
+btr -> jwt
+btr -> z36
+cbp -> jsn
+cbp -> z13
+cdb -> nrt
+cdb -> z38
+cdr -> jbn
+cgg -> bhs
+crc -> nrt
+crc -> z38
+csg -> z45
+dbm -> jfr
+dbm -> z11
+dcd -> msm
+dcg -> nrm
+dcg -> z14
+dhp -> jnv
+dhp -> z16
+dht -> bcg
+dht -> z21
+dmw -> fvk
+dmw -> z02
+dpm -> wgs
+dpq -> rmb
+drp -> tmt
+dsr -> hdf
+dsr -> z15
+dsw -> btq
+fcg -> kkw
+fcg -> z18
+fcp -> nmq
+fcw -> nsk
+fcw -> z04
+fgm -> jsn
+fgm -> z13
+fgt -> vtv
+fgt -> z17
+fkq -> tmt
+fmv -> bnq
+fmv -> z39
+fpq -> tgs
+fqc -> pcs
+fsb -> fkq
+fsb -> z35
+fsh -> csg
+fsh -> z44
+fth -> srn
+fth -> z32
+fvk -> rmb
+fvr -> fgm
+gdb -> btq
+gdd -> mht
+gdq -> vss
+ghf -> crc
+ghj -> dht
+gqs -> vss
+gsr -> pvd
+gtj -> nmp
+gwt -> vwp
+gwt -> z10
+hbs -> kkw
+hbs -> z18
+hdf -> mmq
+hdn -> pjh
+hdn -> z31
+hfm -> hkm
+hfm -> z01
+hkm -> dmw
+hph -> ttp
+hqc -> jhn
+hqt -> hkm
+hqt -> z01
+hrf -> hph
+hrf -> z28
+hsj -> vmf
+hsj -> z19
+hst -> vhb
+hst -> z40
+jbn -> vdm
+jbn -> z42
+jcm -> hdn
+jfr -> npp
+jgc -> nbm
+jgd -> rcs
+jgd -> z09
+jgp -> rkn
+jhn -> csg
+jhn -> z44
+jnv -> nmq
+jnw -> fcw
+jpm -> thd
+jpm -> z43
+jrt -> tgg
+jrw -> pgc
+jrw -> z34
+jsb -> kwp
+jsb -> z22
+jsn -> mjn
+jss -> z07
+jwt -> rqt
+kcj -> pst
+kfs -> ndk
+kfs -> z12
+kjg -> wbn
+kkw -> rkn
+kpw -> kth
+kpw -> z25
+krt -> jfr
+krt -> z11
+krv -> nqk
+krv -> stq
+kth -> bhs
+kwp -> rsf
+mdh -> rqt
+mht -> vwp
+mht -> z10
+mjn -> nrm
+mjn -> z14
+mmq -> jnv
+mmq -> z16
+mnk -> gqs
+mnk -> z29
+mqq -> fpq
+mqq -> rgc
+mrw -> kwp
+mrw -> z22
+msm -> rcs
+msm -> z09
+mth -> jsb
+nbm -> gdb
+nbm -> z06
+ndk -> fgm
+njw -> hrf
+nmp -> fpq
+nmp -> rgc
+nmq -> vtv
+nmq -> z17
+nnj -> sfv
+npp -> ndk
+npp -> z12
+nqk -> dcd
+nqk -> z08
+nrm -> rqq
+nrt -> wnb
+nsk -> wbn
+pbw -> npp
+pcp -> fcg
+pcs -> nnj
+pcs -> z33
+pfp -> mjn
+pgc -> tgg
+php -> rdj
+php -> z41
+pjh -> fth
+pks -> rpj
+pks -> z27
+pst -> rpj
+pst -> z27
+pvd -> thd
+pvd -> z43
+pwg -> dht
+qcs -> srn
+qcs -> z32
+qdb -> pjh
+qdb -> z31
+qdd -> qtc
+qdd -> z37
+qhk -> nsk
+qhk -> z04
+qks -> nbm
+qng -> dmw
+qpd -> rdj
+qpd -> z41
+qtc -> crc
+qwr -> vhb
+qwr -> z40
+rcs -> mht
+rdj -> jbn
+rft -> wnb
+rfv -> hst
+rgc -> tgs
+rjn -> fcw
+rkn -> vmf
+rkn -> z19
+rmb -> jnw
+rmb -> z03
+rpj -> hrf
+rqq -> hdf
+rqq -> z15
+rqt -> qtc
+rqt -> z37
+rsf -> gtj
+rsf -> z23
+rwn -> pst
+scr -> rsf
+sdp -> fth
+sfv -> pgc
+sfv -> z34
+srm -> gtj
+srm -> z23
+srn -> pcs
+stq -> z07
+swk -> hph
+swk -> z28
+tgg -> fkq
+tgg -> z35
+tgs -> kth
+tgs -> z25
+thd -> jhn
+tmc -> jcm
+tmc -> z30
+tmt -> jwt
+tmt -> z36
+tqj -> ttp
+ttp -> gqs
+ttp -> z29
+ttt -> krt
+vcd -> rwn
+vcd -> z26
+vdm -> pvd
+vhb -> php
+vjv -> nmp
+vmd -> jgc
+vmd -> z05
+vmf -> wgs
+vpk -> gdb
+vpk -> z06
+vqc -> nnj
+vqc -> z33
+vss -> jcm
+vss -> z30
+vtv -> fcg
+vvv -> php
+vwp -> krt
+vww -> bcg
+vww -> z21
+wbn -> jgc
+wbn -> z05
+wgs -> ghj
+wgs -> z20
+wkg -> rqq
+wkm -> dcd
+wkm -> z08
+wks -> ghj
+wks -> z20
+wmn -> jnw
+wmn -> z03
+wnb -> bnq
+wnb -> z39
+wnn -> z45
+wsd -> vdm
+wsd -> z42
+wtv -> sfv
+bbw [shape=diamond]
+bcg [shape=diamond]
+bdg [shape=diamond]
+bfr [shape=rect]
+bgw [shape=diamond]
+bhs [shape=triangle]
+bnq [shape=diamond]
+btq [shape=triangle]
+btr [shape=rect]
+cbp [shape=rect]
+cdb [shape=rect]
+cdr [shape=diamond]
+cgg [shape=diamond]
+crc [shape=triangle]
+csg [shape=diamond]
+dbm [shape=rect]
+dcd [shape=diamond]
+dcg [shape=rect]
+dhp [shape=rect]
+dht [shape=triangle]
+dmw [shape=triangle]
+dpm [shape=diamond]
+dpq [shape=diamond]
+drp [shape=diamond]
+dsr [shape=rect]
+dsw [shape=diamond]
+fcg [shape=triangle]
+fcp [shape=diamond]
+fcw [shape=triangle]
+fgm [shape=triangle]
+fgt [shape=diamond]
+fkq [shape=diamond]
+fmv [shape=rect]
+fpq [shape=rect]
+fqc [shape=diamond]
+fsb [shape=rect]
+fsh [shape=rect]
+fth [shape=triangle]
+fvk [shape=diamond]
+fvr [shape=diamond]
+gdb [shape=diamond]
+gdd [shape=diamond]
+gdq [shape=diamond]
+ghf [shape=diamond]
+ghj [shape=diamond]
+gqs [shape=diamond]
+gsr [shape=diamond]
+gtj [shape=diamond]
+gwt [shape=rect]
+hbs [shape=rect]
+hdf [shape=diamond]
+hdn [shape=triangle]
+hfm [shape=diamond]
+hkm [shape=diamond]
+hph [shape=diamond]
+hqc [shape=diamond]
+hqt [shape=rect]
+hrf [shape=triangle]
+hsj [shape=rect]
+hst [shape=triangle]
+jbn [shape=triangle]
+jcm [shape=diamond]
+jfr [shape=diamond]
+jgc [shape=diamond]
+jgd [shape=rect]
+jgp [shape=diamond]
+jhn [shape=triangle]
+jnv [shape=diamond]
+jnw [shape=diamond]
+jpm [shape=rect]
+jrt [shape=diamond]
+jrw [shape=rect]
+jsb [shape=triangle]
+jsn [shape=diamond]
+jss [shape=diamond]
+jwt [shape=diamond]
+kcj [shape=diamond]
+kfs [shape=rect]
+kjg [shape=diamond]
+kkw [shape=diamond]
+kpw [shape=rect]
+krt [shape=triangle]
+krv [shape=rect]
+kth [shape=diamond]
+kwp [shape=diamond]
+mdh [shape=diamond]
+mht [shape=triangle]
+mjn [shape=triangle]
+mmq [shape=triangle]
+mnk [shape=rect]
+mqq [shape=rect]
+mrw [shape=rect]
+msm [shape=triangle]
+mth [shape=diamond]
+nbm [shape=triangle]
+ndk [shape=diamond]
+njw [shape=diamond]
+nmp [shape=triangle]
+nmq [shape=triangle]
+nnj [shape=diamond]
+npp [shape=triangle]
+nqk [shape=rect]
+nrm [shape=diamond]
+nrt [shape=diamond]
+nsk [shape=diamond]
+pbw [shape=diamond]
+pcp [shape=rect]
+pcs [shape=triangle]
+pfp [shape=diamond]
+pgc [shape=diamond]
+php [shape=triangle]
+pjh [shape=diamond]
+pks [shape=rect]
+pst [shape=triangle]
+pvd [shape=triangle]
+pwg [shape=diamond]
+qcs [shape=rect]
+qdb [shape=rect]
+qdd [shape=rect]
+qhk [shape=rect]
+qks [shape=diamond]
+qng [shape=diamond]
+qpd [shape=rect]
+qtc [shape=diamond]
+qwr [shape=rect]
+rcs [shape=diamond]
+rdj [shape=diamond]
+rft [shape=diamond]
+rfv [shape=diamond]
+rgc [shape=diamond]
+rjn [shape=diamond]
+rkn [shape=triangle]
+rmb [shape=triangle]
+rpj [shape=diamond]
+rqq [shape=triangle]
+rqt [shape=triangle]
+rsf [shape=triangle]
+rwn [shape=diamond]
+scr [shape=diamond]
+sdp [shape=diamond]
+sfv [shape=triangle]
+srm [shape=rect]
+srn [shape=rect]
+stq [shape=diamond]
+swk [shape=rect]
+tgg [shape=triangle]
+tgs [shape=triangle]
+thd [shape=diamond]
+tmc [shape=rect]
+tmt [shape=triangle]
+tqj [shape=diamond]
+ttp [shape=triangle]
+ttt [shape=diamond]
+vcd [shape=rect]
+vdm [shape=diamond]
+vhb [shape=diamond]
+vjv [shape=diamond]
+vmd [shape=rect]
+vmf [shape=diamond]
+vpk [shape=rect]
+vqc [shape=rect]
+vss [shape=triangle]
+vtv [shape=diamond]
+vvv [shape=diamond]
+vwp [shape=diamond]
+vww [shape=rect]
+wbn [shape=triangle]
+wgs [shape=triangle]
+wkg [shape=diamond]
+wkm [shape=rect]
+wks [shape=rect]
+wmn [shape=rect]
+wnb [shape=triangle]
+wnn [shape=diamond]
+wsd [shape=rect]
+wtv [shape=diamond]
+z00 [shape=doublecircle]
+z01 [shape=doublecircle]
+z02 [shape=doublecircle]
+z03 [shape=doublecircle]
+z04 [shape=doublecircle]
+z05 [shape=doublecircle]
+z06 [shape=doublecircle]
+z07 [shape=doublecircle]
+z08 [shape=doublecircle]
+z09 [shape=doublecircle]
+z10 [shape=doublecircle]
+z11 [shape=doublecircle]
+z12 [shape=doublecircle]
+z13 [shape=doublecircle]
+z14 [shape=doublecircle]
+z15 [shape=doublecircle]
+z16 [shape=doublecircle]
+z17 [shape=doublecircle]
+z18 [shape=doublecircle]
+z19 [shape=doublecircle]
+z20 [shape=doublecircle]
+z21 [shape=doublecircle]
+z22 [shape=doublecircle]
+z23 [shape=doublecircle]
+z24 [shape=doublecircle]
+z25 [shape=doublecircle]
+z26 [shape=doublecircle]
+z27 [shape=doublecircle]
+z28 [shape=doublecircle]
+z29 [shape=doublecircle]
+z30 [shape=doublecircle]
+z31 [shape=doublecircle]
+z32 [shape=doublecircle]
+z33 [shape=doublecircle]
+z34 [shape=doublecircle]
+z35 [shape=doublecircle]
+z36 [shape=doublecircle]
+z37 [shape=doublecircle]
+z38 [shape=doublecircle]
+z39 [shape=doublecircle]
+z40 [shape=doublecircle]
+z41 [shape=doublecircle]
+z42 [shape=doublecircle]
+z43 [shape=doublecircle]
+z44 [shape=doublecircle]
+z45 [shape=doublecircle]
+}
+
+0

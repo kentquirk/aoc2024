@@ -1,0 +1,82 @@
+Shouldn't go
+jss z07
+btq nqk
+krv nqk (z07)
+
+
+WRONG
+x24 AND y24 -> z24
+fth AND qcs -> z32
+
+// swaps
+stq OR jss -> z07
+krv XOR btq -> nqk
+
+x24 AND y24 -> rgc
+nmp mqq -> z24
+
+
+btq goes to nqk but should go to z07
+krv goes to nqk but should go to z07
+
+
+jss goes to z07 but should go to
+
+jss goes to z07 but should go to nqk
+
+y00 AND x00 -> hfm
+x01 AND y01 -> qng
+y02 AND x02 -> dpq
+y03 AND x03 -> rjn
+y04 AND x04 -> kjg
+y05 AND x05 -> qks
+x06 AND y06 -> dsw
+x07 AND y07 -> jss
+y08 AND x08 -> bdg
+y09 AND x09 -> gdd
+
+y00 XOR x00 -> z00
+y01 XOR x01 -> hqt
+y02 XOR x02 -> bfr
+x03 XOR y03 -> wmn
+y04 XOR x04 -> qhk
+y05 XOR x05 -> vmd
+y06 XOR x06 -> vpk
+y07 XOR x07 -> krv
+y08 XOR x08 -> wkm
+x09 XOR y09 -> jgd
+
+194,195c194,195
+< x17 XOR y17 -> pcp
+< x24 AND y24 -> z24
+---
+> x17 XOR y17 -> fgt
+> x24 AND y24 -> fpq
+198c198
+< y17 AND x17 -> fgt
+---
+> y17 AND x17 -> pcp
+208c208
+< nmp XOR mqq -> fpq
+---
+> nmp XOR mqq -> z24
+217c217
+< fth AND qcs -> z32
+---
+> fth AND qcs -> srn
+224c224
+< fth XOR qcs -> srn
+---
+> fth XOR qcs -> z32
+249c249
+< stq OR jss -> z07
+---
+> stq OR jss -> nqk
+282c282
+< krv XOR btq -> nqk
+---
+> krv XOR btq -> z07
+
+
+
+fgt,fpq,nqk,pcp,srn,z07,z24,z32
